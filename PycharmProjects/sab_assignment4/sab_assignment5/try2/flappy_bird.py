@@ -1,7 +1,5 @@
 import pygame
-# import time
 import random
-
 
 class FlappyBird:
     def quit_game(self):
